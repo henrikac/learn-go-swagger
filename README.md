@@ -2,9 +2,18 @@
 
 The purpose of this project is to learn about [go-swagger](https://goswagger.io/).
 
+## Requirements
+
++ [Go](https://golang.org/)
++ [go-swagger](https://goswagger.io/)
+
+## Setup
+
+Run `./scripts/gen-swagger` to generate swagger spec document.
+
 ## Usage
 
-TODO: Write usage instructions here
+Run `go run main.go` and then open `localhost:3000/docs`
 
 ## Contributing
 
